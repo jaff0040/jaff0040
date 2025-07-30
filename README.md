@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sayed Hashim Jaffar</h1>
+<h1 align="center">Hi 👋, I'm Sayed Jaffar</h1>
 <h3 align="center">A professional UI & UX designer and web developer and designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaff0400&label=Profile%20views&color=0e75b6&style=flat" alt="jaff0400" /> </p>
