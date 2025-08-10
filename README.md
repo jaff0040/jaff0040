@@ -1,3 +1,11 @@
+![GitHub Metrics](https://metrics.lecoq.io/jaff0400?template=classic&base.header=0&...etc...)
+
+
+![GitHub Metrics](https://metrics.lecoq.io/jaff0400?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&achievements=1&lines=1&config.timezone=America%2FToronto)
+
+![GitHub Metrics](https://metrics.lecoq.io/jaff0400?template=classic&base.header=0&languages=1&isocalendar=1&achievements=1&lines=1&config.timezone=America%2FToronto&config.ansi=true)
+
+
 <!-- Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sayed+Jaffar;Full-Stack+Developer+%26+UI%2FUX+Designer;Web+%26+Mobile+Apps;Always+building,+always+learning+🚀" />
