@@ -6,6 +6,12 @@
 ![GitHub Metrics](https://metrics.lecoq.io/jaff0400?template=classic&base.header=0&languages=1&isocalendar=1&achievements=1&lines=1&config.timezone=America%2FToronto&config.ansi=true)
 
 
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaff0400/jaff0400/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+
 <!-- Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sayed+Jaffar;Full-Stack+Developer+%26+UI%2FUX+Designer;Web+%26+Mobile+Apps;Always+building,+always+learning+🚀" />
