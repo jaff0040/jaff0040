@@ -1,44 +1,67 @@
-<h1 align="center">Hi 👋, I'm Sayed Jaffar</h1>
-<h3 align="center">🎨 UI/UX Designer | 💻 Web & Mobile Developer | 🚀 Tech Enthusiast</h3>
-
+<!-- Header with Typing Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaff0400&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaff0400&theme=gruvbox&margin-w=15&margin-h=15" alt="Trophies" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sayed+Jaffar;UI+%26+UX+Designer;Web+%26+Mobile+Developer;Tech+Enthusiast+🚀" />
 </p>
 
----
-
-### 🌟 About Me
-- 🔭 I’m currently working on **[Adventure Co.](https://jaff0040.github.io/mad9013-project-two-page-site/)**
-- 👯 I’m looking to collaborate on **[Data Management](https://jaff0040.github.io/data-mgmt/)**
-- 📫 Reach me at **jaff0040@algonquinlive.com**
-- 🎯 Passionate about **designing intuitive user experiences** and **developing impactful applications**
-- 🌱 Always learning **new frameworks, tools, and design techniques**
-
----
-
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.behance.net/sayedjaffar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40" /></a>
-  <a href="mailto:jaff0040@algonquinlive.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40" /></a>
-</p>
-
----
-
-### 🛠 Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
-</p>
----
-
-### 🔥 Streak Stats
+<!-- Location & Links -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaff0400&theme=tokyonight" alt="GitHub Streak" />
+  📍 Ottawa, Canada  
+  🌐 <a href="https://yourportfolio.com">Portfolio</a> | 💼 <a href="https://linkedin.com/in/sayedjaffar">LinkedIn</a>
 </p>
+
+---
+
+## 🚀 About Me
+- 🎨 **Professional UI & UX Designer** creating intuitive, user-focused experiences.
+- 💻 Skilled in **full-stack web & mobile app development**.
+- 🌱 Constantly learning and exploring **new frameworks & technologies**.
+- 🏆 Passion for turning ideas into real-world applications.
+
+---
+
+## 🛠 Core Technical Stack
+
+**Frontend & Mobile**  
+<p>
+  <img src="https://img.icons8.com/color/48/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/flutter.png"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/css3.png"/>
+</p>
+
+**Backend & Cloud**  
+<p>
+  <img src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/python.png"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
+</p>
+
+**Design & Tools**  
+<p>
+  <img src="https://img.icons8.com/color/48/figma--v1.png"/>
+  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png"/>
+  <img src="https://img.icons8.com/color/48/adobe-illustrator--v1.png"/>
+  <img src="https://img.icons8.com/color/48/adobe-xd.png"/>
+  <img src="https://img.icons8.com/color/48/git.png"/>
+</p>
+
+---
+
+## 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaff0400&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaff0400&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## ⏳ Weekly Development Focus
+```text
+Flutter        12 hrs 30 mins  ████████████░░░░░░░░░░░░░   45.20 %
+React Native   7 hrs 40 mins   ███████░░░░░░░░░░░░░░░░░░░   27.70 %
+UI Design      4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
+JavaScript     2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   7.92 %
+Other          50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   3.82 %
