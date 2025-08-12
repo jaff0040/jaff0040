@@ -75,7 +75,7 @@
 ---
 
 ## 🌍 Languages
-**English** · **Arabic**
+**English**
 
 ---
 
