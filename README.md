@@ -1,15 +1,11 @@
-![GitHub Metrics](https://metrics.lecoq.io/jaff0400?template=classic&base.header=0&...etc...)
-
-
-![GitHub Metrics](https://metrics.lecoq.io/jaff0400?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&achievements=1&lines=1&config.timezone=America%2FToronto)
-
-![GitHub Metrics](https://metrics.lecoq.io/jaff0400?template=classic&base.header=0&languages=1&isocalendar=1&achievements=1&lines=1&config.timezone=America%2FToronto&config.ansi=true)
-
-
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jaff0400/jaff0400/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaff0400/jaff0400/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/jaff0400/jaff0400/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+
 
 
 <!-- Typing Intro -->
