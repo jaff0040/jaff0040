@@ -1,13 +1,3 @@
-## 🐍 Contribution Graph
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaff0400/jaff0400/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/jaff0400/jaff0400/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-
-
 <!-- Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sayed+Jaffar;Full-Stack+Developer+%26+UI%2FUX+Designer;Web+%26+Mobile+Apps;Always+building,+always+learning+🚀" />
@@ -89,6 +79,14 @@
 
 ---
 
+## 🐍 Contribution Graph
+
+<!-- Dark mode -->
+![Contribution Snake](https://raw.githubusercontent.com/jaff0040/jaff0040/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<!-- Light mode -->
+![Contribution Snake](https://raw.githubusercontent.com/jaff0040/jaff0040/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+---
 ## 📈 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaff0400&show_icons=true&theme=tokyonight" height="170" />
